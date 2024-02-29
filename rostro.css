@@ -1,0 +1,62 @@
+#rostro
+{
+    border-style: solid;
+    width: 500px;
+    height: 500px;
+    border-radius: 1000px;
+    background-color: hsl(0, 84%, 47%);
+}
+#ojos
+{
+    /*border-style: solid;*/
+    width: 400px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ojos1
+{
+    border-style: solid;
+    width: 160px;
+    height: 180px;
+    border-radius: 100px 100px 0px 0px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-color: white;
+    margin: 10px;
+}
+#ojos2
+{
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: black;
+}
+#nariz
+{
+    border-style: solid;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: bisque;
+}
+#boca
+{
+    /*border-style: solid;+*/
+    height: 120px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#boca1
+{
+    border-style: solid;
+    height: 100px;
+    width: 300px;
+    border-radius: 0px 0px 100px 100px;
+    background-color: black;
+}
